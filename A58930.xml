@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Seasonable invitation for Monmouth to return to court</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58930</idno><idno type="EEBO-CITATION">16273287</idno>
+  <idno type="VID">105231</idno>
+  <idno type="EEBO-PROQUEST">2240861429</idno>
+  
+            <idno type="STC">Wing S2231</idno>
+            <idno type="STC">ESTC R37235</idno>
+            <idno type="OCLC">16273287</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1157:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Seasonable invitation for Monmouth to return to court</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.B. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105231:1"/>
+            <head>A Seasonable Invitation FOR MONMOUTH TO RETURN TO COURT</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AFter a long Exile from your <hi>Father</hi>'s House, and Heart, enter a little into Your Self, and consider what you <hi>are,</hi> what you <hi>were,</hi> and <hi>where</hi> you <hi>are:</hi> Remember, that your Veins are filled with <hi>Royal Blood;</hi> and that it was That, which Raised you to that High Throne of Glory, on which we all one Day saw you seated: So High you were Exalted, that nothing but a Crown could make you Higher. What Honour, what Dignity, what Pre<g ref="char:EOLhyphen"/>ferment was there to be disposed of, that was Great, but you had it? But above all, you had the Hearts of the People, and the Heart of your <hi>Royal Father</hi> and <hi>Prince,</hi> was yours: So that, we may say, in some measure, you Governed <hi>Three</hi> Kingdoms. And in this you had a Happiness attended you, which <hi>Kings</hi> are deprived of, your Head and Shoulders were removed from the heavy Pressure of their Government, under which the Greatest Monarchs groan and sweat, it being a Burthen insupportable.</p>
+            <p>And, Who was it, that loved you thus, to Exalt you above the Heads of all the Nobility, and Wor<g ref="char:EOLhyphen"/>thy <hi>Heroes</hi> of <hi>Three</hi> Kingdoms? Who was it, that gave you Wings to soar like an <hi>Angel,</hi> up to the Imperial Throne of <hi>Majesty?</hi> Who was it, that made you the Peoples only Object, on which their Eyes with such Delight were fixed, that scarce could they remove them thence? Who was it, but He who gave you Being? And, Who was this, but the <hi>King</hi> your Father? And, Why did he do all this, but because he loved you? And, Why did he love you, but because you were his Son? <hi>Sir,</hi> You were so tyed to the Heart-Strings of your <hi>Royal Father,</hi> that all the World believed, that nothing but Death or Hell could ever make a Divorce betwixt You: How comes it then, that this Tye of Nature, this strict Bond of Amity is dissolved, and broken in pieces? How comes it, that this Darling Prince is Banished from the <hi>Royal Palace;</hi> And, like Sinful <hi>Adam,</hi> shrowds himself in craggy and obscure Pla<g ref="char:EOLhyphen"/>ces, fearing to appear before that <hi>Majesty</hi> who gave him Being? Who is it, that hath Exiled you from your <hi>Father</hi>'s Love? Who is it that hath turned you out of a Paradise of Delights, to wander in strange and unknown Paths? Who is it, that hath Banished you from a Glorious Court, where, like the <hi>An<g ref="char:EOLhyphen"/>gels,</hi> you might have lived in Innocent Delights, now to inhabit Desart Places, where you meet with no other Company than <hi>Caballing Devils;</hi> who, like cursed <hi>Achitophel,</hi> are ever pouring Poison in the Ears of poor Young <hi>Absolom?</hi> Sometimes he tells him, <q>The <hi>King</hi> (his Father) grows Old and Weak, and that He is easily subdued; that the <hi>Mobile</hi> grow weary of His Government, and fall off from Him; that he himself hath so much the Hearts of the People, as that he can immediately Raise <hi>Twelve Thousand</hi> Men; and that the <hi>King</hi> being left Desolate, he will strike Him: And all this, that <hi>Absolom</hi> may be King, and the People may live in Peace.</q>
+            </p>
+            <p>But, sayes <hi>Chusai</hi> to <hi>Absolom, It is not Good Counsel, that</hi> Achitophel <hi>hath given; For</hi> (sayes he) <hi>thou knowest thy Father, and the Men who are with him, are Valiant, and as Couragious as a Bear in the Desart, when her Whelps are taken from her.</hi>
+            </p>
+            <p>How comes it then, that <hi>Chusai</hi>'s Counsel is not Embraced, and <hi>Atchitophel</hi>'s Rejected? How comes it, that <hi>Monmouth</hi> Banisheth not from him this Devil <hi>Achitophel,</hi> and flyes not into the Embraces of his <hi>Father?</hi>
+            </p>
+            <pb n="2" facs="tcp:105231:2"/>
+            <p>
+               <hi>Sir,</hi> Look about you, and see what Evil Spirit it is, that hath thus Charmed you; Who hath done all this Mischief? Who hath made this Havock in your Soul? Death or Devil it must be: Death hath not yet approached either You, or your <hi>Royal Father,</hi> to give the Fatal Blow of <hi>Divorce;</hi> therefore, some <hi>Devil</hi> it is, which you must learn to know, Fight with, and Conquer, before you can deserve the Name, or Place of <hi>General;</hi> of which, and all your other Embellishments he hath despoyled you.</p>
+            <p>
+               <hi>Sir,</hi> 'Tis said by all your Friends, That there is a little Crooked, Hucked-back <hi>Devil,</hi> which Hell hath long since disgorged it self of, and confined him to this Kingdom, dayly to make new Reforma<g ref="char:EOLhyphen"/>tions in Religion, State, and Government. He puts himself into all Shapes and Forms, and hath his Choice of Religions, which he puts on, and pulls off, as you would a Suit of Cloaths; and that Re<g ref="char:EOLhyphen"/>ligion which is most in Fashion, or best pleaseth the People, he appears in. There is nothing, which he is not the Author of, he does not look a Squint at. He hath the Eyes of a <hi>Basilisk,</hi> Kills all he looks on: He hath Hands imbrued in the Blood of the Innocent: He hath the Heart of a <hi>Panther:</hi> He feeds on nothing but Revenge; He thirsts after nothing but Human Blood, and the Eternal Ruin of Inno<g ref="char:EOLhyphen"/>cent Souls▪ He is like one of those ill Presaging <hi>Birds</hi> of Night, which <hi>Pliny</hi> speaks of, <q>which cast forth fearful Boading Scrieches, in the Dead of Night, as if they envyed us Darkness, and the Sweetness of Repose.</q> Sometimes you shall see him seated at the <hi>Councel-Board</hi> of <hi>Kings;</hi> and when Banished thence, he becomes the Prince of Rebels, and dayly presides in <hi>Cabals</hi> and <hi>Conventicles.</hi> He dreams of nothing but Fires, Plots, Poisons, Murders, and Change of Government, with which his Sleep is disturbed. In the Day time he is surrounded with a Number of little Devils, which Act, Say, and Swear, just as he prompts them.</p>
+            <p>
+               <hi>Sir,</hi> This is the Fiend, 'tis said, which haunts you; This is that Devil, who hath blasted your Ho<g ref="char:EOLhyphen"/>nour, robbed and despoiled you of your Estate, and High Dignities; This is he, who hath taught you Disloyalty, Disobedience, and Contempt to your <hi>Prince:</hi> And this is he, who (if you immediately flye not from) in the end will work your Eternal Ruin. Consider, <hi>Sir,</hi> the Nature of this Beast, this Mon<g ref="char:EOLhyphen"/>ster with whom you have thus long Convers'd. Consider what you have gain'd, and what you have lost by Associating your self with this <hi>Caballing Devil;</hi> and then say, what Reason you have longer to continue his Slave. Behold the Strange Deformity of Shape, Tongue, and Manners, he dayly changeth himself into; and tell me, if you can behold him without Horror and Affrightment. And believe it Sir, he loves you not; for he hath been often heard to say, He useth you for no other end, than to com<g ref="char:EOLhyphen"/>pleat his own Hellish Designes. Be quick therefore as Thought, and immediately fly into the Em<g ref="char:EOLhyphen"/>braces of your <hi>Father;</hi> who, I doubt not, hath Arms open to Receive you, if you come to Him with a Heart truly Penitent: Prostrate then your self at His Feet, and humbly ask Him Pardon for the <hi>ill</hi> you have done. If you know of any Trayterous Conspiracies against Him, or His Government, fail not immediately to let Him know them, and pour into His Ears all the Secrets of your <hi>Cabals:</hi> Be Recon<g ref="char:EOLhyphen"/>ciled to his <hi>Royal Highness;</hi> and, you shall see, the <hi>King</hi> will not only Receive you into His Arms, but Heart; and Raise you to as great a Height of Glory, as ever you yet arrived at.</p>
+            <p>
+               <hi>Sir,</hi> When you have done these things, we shall see <hi>Monmouth</hi> as Great as ever: Then all Tongues shall speak his Praises, all Arms shall be opened for his Reception, all Hearts shall dance to welcom his Return, and all his Friends will bid him Welcom to his <hi>Father</hi>'s House; where we shall all be<g ref="char:EOLhyphen"/>hold a Great Day of <hi>Jubilee:</hi> For it will be a Day of Peace to all Loyal Hearts; it will be a Day of Tryumph: For at your Return, the Troops of the <hi>Ungodly Brethren</hi> shall be broken in Pieces, the Fury of the Giddy-headed <hi>Mobile</hi> shall be allayed, and the Enemies of the Crown laid Prostrate at the Feet of <hi>Majesty:</hi> We shall then have no more <hi>Cabals,</hi> no more <hi>Sham-Plots,</hi> no more Irregular and Un<g ref="char:EOLhyphen"/>lawful <hi>Petitioning,</hi> which Robs the <hi>Crown</hi> of its Richest Jewels, and wounds through the Sacred Sides of <hi>Princes.</hi> At this Day the Enemies of <hi>God,</hi> and <hi>Monarchs,</hi> shall be so Confounded, that their Frightful Aspects shall betray the Blackness and Horror of their Guilty Souls. The Loyal Subject at that Day, shall appear in his White Robes of <hi>Innocency;</hi> and the <hi>Enthusiastick Traytor</hi> shall with Envy burst in pieces, to see himself Caught in his own Toyl, and Perish in his own pernicious Practices. And when <hi>Absolom</hi> dispiseth the Counsels of <hi>Achitophel,</hi> and returns to <hi>David,</hi> the Wicked Counsellor shall despair, be his own Executioner, and Hang himself. And so the Little Devil takes his Leave, and goes to his Eternal Home: where he hath been long Expected by the Inhabitants of that Place.</p>
+            <p>
+               <hi>Sir,</hi> Dispossess but your self of This <hi>Devil,</hi> and you for ever make your self a Happy <hi>Prince.</hi> This is the <hi>Advice</hi> of Him, who shall alwayes Subscribe Himself,</p>
+            <closer>
+               <salute>A Friend to Monarchs, and a Lover of Loyal Subjects.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. B.</hi> in the YEAR, 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
